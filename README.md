@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatndeep-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="yatndeep-dubey" /> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **BACKEND DEVELOPMENT**
 
 - 🌱 I’m currently learning **NODE JS AND DSA**
 
-- 👯 I’m looking to collaborate on **REACT JS**
+- 👯 I’m looking to collaborate on **ANGULAR JS**
 
 - 🤝 I’m looking for help with **OPEN SOURCE PROJECTS**
 
-- 💬 Ask me about **REACT JS ,WEB DEVELOPMENT**
+- 💬 Ask me about **NodeJS ,WEB DEVELOPMENT**
 
 - 📫 How to reach me **dubeyyandeep@gmail.com**
 
