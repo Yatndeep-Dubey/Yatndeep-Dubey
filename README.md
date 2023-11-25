@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NODE JS AND DSA**
 
-- 👯 I’m looking to collaborate on **ANGULAR JS**
+- 👯 I’m looking to collaborate on **REACT JS**
 
 - 🤝 I’m looking for help with **OPEN SOURCE PROJECTS**
 
